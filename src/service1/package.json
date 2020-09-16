@@ -1,0 +1,18 @@
+{
+    "name": "graphql-gateway",
+    "version": "1.0.0",
+    "description": "GraphQL as API gateway and related patterns",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sankar V",
+    "license": "ISC",
+    "dependencies": {
+      "apollo-link-http": "^1.5.17",
+      "apollo-server-express": "^2.17.0",
+      "body-parser": "^1.19.0",
+      "express": "^4.17.1",
+      "graphql-tools": "^6.2.2"
+    }
+  }
